@@ -7,7 +7,7 @@ function createGames(player1, hour, player2) {
               />
               <strong>${hour}</strong>
               <img
-                src="/assets/icon=${player2}.svg"
+                src="./assets/icon=${player2}.svg"
                 alt="imagem da bandeira de ${player2}"
               />
             </li>
